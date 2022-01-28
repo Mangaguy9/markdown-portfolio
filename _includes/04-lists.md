@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* manga :book:
+* Anime 📺
+   * Okay
+
+1. something
+2. else
+   1. Okay
